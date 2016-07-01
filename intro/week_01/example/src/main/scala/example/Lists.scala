@@ -42,7 +42,7 @@ object Lists {
    * @throws java.util.NoSuchElementException if `xs` is an empty list
    */
     def max(xs: List[Int]): Int =
-     if (xs.isEmpty) throw new IllegalArgumentException("zero is not allowed")
+     if (xs.isEmpty) throw new NoSuchElementException("empty list has no maximum")
     else {
 
        def maxList(ls: List[Int], max: Int) : Int =
