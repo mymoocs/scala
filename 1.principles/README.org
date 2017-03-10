@@ -1,7 +1,7 @@
 * Functional Programming in Scala Specialization
-** Functional Programming Principles in Scala
+** [[https://www.coursera.org/learn/progfun1/home/welcome][Functional Programming Principles in Scala]]
 *** Week 01
-
-
-
-
+** [[https://www.coursera.org/learn/progfun2][Functional Program Design in Scala]]
+** [[https://www.coursera.org/learn/parprog1][Parallel programming]]
+** [[https://www.coursera.org/learn/scala-spark-big-data][Big Data Analysis with Scala and Spark]]
+** [[https://www.coursera.org/learn/scala-capstone][Functional Programming in Scala Capstone]]
